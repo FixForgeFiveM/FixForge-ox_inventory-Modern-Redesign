@@ -13,6 +13,8 @@ A modern visual redesign of the **ox_inventory** interface, crafted by **FixForg
 **Maintained by:** FixForge Development
 
 ---
+<img width="1455" height="667" alt="Screenshot 2026-11-17 144640" src="https://github.com/user-attachments/assets/a4e97051-3097-4979-9da9-aaec779fa644" />
+
 <img width="604" height="131" alt="image" src="https://github.com/user-attachments/assets/ddafc33c-a8af-461a-a207-cdc12c1ec0c5" />
 
 
